@@ -43,3 +43,16 @@ function test6() {
 }
 
 console.log('test');
+
+/**
+ * @todo Take over the world
+ * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
+ */
+function testing() {
+    console.log('test1');
+}
+
+// @todo Take over the world
+function testasdfasdf() {
+    console.log('test1');
+}
